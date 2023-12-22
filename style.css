@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+  margin: 5px;
+  padding: 5px;
+  color: rgb(39, 37, 37);
+  font-family: "Itim", cursive;
+  font-family: "Poppins", sans-serif;
+}
+body {
+  background-color: #faf9f6;
+}
+footer {
+  text-align: right;
+}
+footer p {
+  color: rgb(2, 2, 116);
+}
+h1 {
+  font-size: xx-large;
+}
+
+p {
+  display: inline-block;
+}
+#block {
+  display: block;
+}
+#color {
+  color: rgb(2, 2, 66);
+}
+#para1 {
+  float: right;
+}
+#para2 {
+  float: right;
+}
+strong {
+  margin-left: 0;
+  padding-left: 0;
+}
