@@ -15,10 +15,10 @@ footer {
 footer p {
   color: rgb(2, 2, 116);
 }
-h1 {
-  font-size: xx-large;
+section {
+  font-weight: bolder;
+  font-size: 50px;
 }
-
 p {
   display: inline-block;
 }
